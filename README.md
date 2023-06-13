@@ -17,6 +17,6 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 
 
 > ### Parameter-Efficient Tuning (PET)
-**🤗 PEFT: Parameter-Efficient Fine-Tuning** [HuggingFace]<br>
+**PEFT: Parameter-Efficient Fine-Tuning** [HuggingFace 🤗]<br>
 PEFT, or Parameter-Efficient Fine-Tuning (PEFT), is a library for efficiently adapting pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model’s parameters. <br>
 [[Home Page](https://huggingface.co/docs/peft/index)] [[Github Repo](https://github.com/huggingface/peft)]
