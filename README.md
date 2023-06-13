@@ -1,5 +1,5 @@
 # Multi-modal Large Language Model Collection 🦕
-**A curated list of Multi-modal Large Language Models (MLLM), Multimodal Benchmarks (MMB), Multimodal Instruction Tuning (MMIT), Multimodal In-context Learning (MMIL), Foundation Models (*e.g.*, CLIP families) (FM), and current Parameter-Efficient Tuning methods.**
+This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal Benchmarks (MMB), Multimodal Instruction Tuning (MMIT), Multimodal In-context Learning (MMIL), Foundation Models (*e.g.*, CLIP families) (FM), and the most popular Parameter-Efficient Tuning methods.
 
 ## 📒Table of Contents
 - [Multi-modal Large Language Models (MLLM)](#multimodal-large-language-models)
