@@ -17,6 +17,7 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 
 > ### Foundation Models (FM)
 * **LLaMA: Open and Efficient Foundation Language Models** [Arxiv 2023] [[paper](https://arxiv.org/pdf/2302.13971v1.pdf)] [[Github Repo](https://github.com/CHENGY12/PLOT)]<br>
+<sup>1</sup>Meta AI
 
 > ### Prompt Learning (PL)
 * **PLOT: Prompt Learning with Optimal Transport for Vision-Language Models** [ICLR 2023] [[paper](https://arxiv.org/pdf/2210.01253.pdf)] [[Github Repo](https://github.com/facebookresearch/llama)]<br>
