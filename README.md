@@ -27,3 +27,11 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 * **PEFT: Parameter-Efficient Fine-Tuning** [HuggingFace 🤗] [[Home Page](https://huggingface.co/docs/peft/index)] [[Github Repo](https://github.com/huggingface/peft)]<br>
 PEFT, or Parameter-Efficient Fine-Tuning (PEFT), is a library for efficiently adapting pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model’s parameters. <br>
 
+* **LLaMA Efficient Tuning** [[Github Repo](https://github.com/hiyouga/LLaMA-Efficient-Tuning)]<br>
+Easy-to-use fine-tuning framework using PEFT (PT+SFT+RLHF with QLoRA) (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen). <br>
+
+* **LLaMA-Adapter: Efficient Fine-tuning of LLaMA** 🚀[[Github Repo](https://github.com/OpenGVLab/LLaMA-Adapter)]<br>
+Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters <br>
+
+* **LLaMA2-Accessory** 🚀[[Github Repo](https://github.com/Alpha-VLLM/LLaMA2-Accessory)]<br>
+An Open-source Toolkit for LLM Development <br>
