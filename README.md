@@ -34,4 +34,7 @@ Easy-to-use fine-tuning framework using PEFT (PT+SFT+RLHF with QLoRA) (LLaMA-2, 
 Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters <br>
 
 * **LLaMA2-Accessory** 🚀[[Github Repo](https://github.com/Alpha-VLLM/LLaMA2-Accessory)]<br>
-An Open-source Toolkit for LLM Development <br>
+An Open-source Toolkit for LLM Development <be>
+
+
+LLaMA Factory: Training and Evaluating Large Language Models with Minimal Effort
