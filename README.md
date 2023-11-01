@@ -36,5 +36,5 @@ Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters <br>
 * **LLaMA2-Accessory** 🚀[[Github Repo](https://github.com/Alpha-VLLM/LLaMA2-Accessory)]<br>
 An Open-source Toolkit for LLM Development <be>
 
-
-LLaMA Factory: Training and Evaluating Large Language Models with Minimal Effort
+* **LLaMA Factory: Training and Evaluating Large Language Models with Minimal Effort** [Github Repo](https://github.com/hiyouga/LLaMA-Factory)]<br>
+Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3)
