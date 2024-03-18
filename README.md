@@ -10,7 +10,7 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 
 > ### Multi-modal Large Language Models (MLLM)
 
-* **GiT: Towards Generalist Vision Transformer through Universal Language Interface** [Arxiv 14 Mar 2024] [[Paper](https://arxiv.org/abs/2403.09394)]<br>
+* **GiT: Towards Generalist Vision Transformer through Universal Language Interface** [Arxiv 2024/03/14] [[Paper](https://arxiv.org/abs/2403.09394)]<br>
 <sup>1</sup>Peking University, <sup>2</sup>Max Planck Institute for Informatics, <sup>3</sup>The Chinese University of Hong Kong, Shenzhen, <sup>4</sup>ETH Zurich, <sup>5</sup>The Chinese University of Hong Kong<br>
 
 * **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark** [Arxiv 2023] [[Paper](https://arxiv.org/pdf/2306.06687.pdf)]<br>
