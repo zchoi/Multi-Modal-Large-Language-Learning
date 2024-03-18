@@ -10,15 +10,18 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 
 > ### Multi-modal Large Language Models (MLLM)
 
-* **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark** [Arxiv 2023] [[paper](https://arxiv.org/pdf/2306.06687.pdf)]<br>
+* **GiT: Towards Generalist Vision Transformer through Universal Language Interface** [Arxiv 14 Mar 2024] [[Paper](https://arxiv.org/abs/2403.09394)]<br>
+<sup>1</sup>Peking University, <sup>2</sup>Max Planck Institute for Informatics, <sup>3</sup>The Chinese University of Hong Kong, Shenzhen, <sup>4</sup>ETH Zurich, <sup>5</sup>The Chinese University of Hong Kong<br>
+
+* **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark** [Arxiv 2023] [[Paper](https://arxiv.org/pdf/2306.06687.pdf)]<br>
 <sup>1</sup>Shanghai AI Lab, <sup>2</sup>Beihang University, <sup>3</sup>The Chinese University of Hong Kong (Shenzhen), <sup>4</sup>Fudan University, <sup>5</sup>Dalian University of Technology, <sup>6</sup>The University of Sydney<br>
 
 > ### Foundation Models (FM)
-* **LLaMA: Open and Efficient Foundation Language Models** [Arxiv 2023] [[paper](https://arxiv.org/pdf/2302.13971v1.pdf)] [[Github Repo](https://github.com/CHENGY12/PLOT)]<br>
+* **LLaMA: Open and Efficient Foundation Language Models** [Arxiv 2023] [[Paper](https://arxiv.org/pdf/2302.13971v1.pdf)] [[Github Repo](https://github.com/CHENGY12/PLOT)]<br>
 <sup>1</sup>Meta AI
 
 > ### Prompt Learning (PL)
-* **PLOT: Prompt Learning with Optimal Transport for Vision-Language Models** [ICLR 2023] [[paper](https://arxiv.org/pdf/2210.01253.pdf)] [[Github Repo](https://github.com/facebookresearch/llama)]<br>
+* **PLOT: Prompt Learning with Optimal Transport for Vision-Language Models** [ICLR 2023] [[Paper](https://arxiv.org/pdf/2210.01253.pdf)] [[Github Repo](https://github.com/facebookresearch/llama)]<br>
 <sup>1</sup>CMU, <sup>2</sup>Mohamed bin Zayed University of Artificial Intelligence, <sup>3</sup>Tsinghua University, <sup>4</sup>New York University<br>
 
 > ### Parameter-Efficient Tuning Repo (PETR)
