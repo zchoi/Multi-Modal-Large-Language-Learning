@@ -8,7 +8,7 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 - [Multimodal In-context Learning (MMIL)](#multimodal-in-context-learning)
 - [Prompt Learning (PL)](#prompt-learning)
 - [Foundation Models (FM)](#foundation-models)
-- [Parameter-Efficient Tuning (PET)](#parameter-efficient-tuning)
+- [Parameter-Efficient Tuning Repo (PETR)](#parameter-efficient-tuning-repo)
 
 > ### Multi-modal Large Language Models (MLLM)
 
@@ -23,7 +23,7 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 * **PLOT: Prompt Learning with Optimal Transport for Vision-Language Models** [ICLR 2023] [[paper](https://arxiv.org/pdf/2210.01253.pdf)] [[Github Repo](https://github.com/facebookresearch/llama)]<br>
 <sup>1</sup>CMU, <sup>2</sup>Mohamed bin Zayed University of Artificial Intelligence, <sup>3</sup>Tsinghua University, <sup>4</sup>New York University<br>
 
-> ### Parameter-Efficient Tuning (PET)
+> ### Parameter-Efficient Tuning Repo (PETR)
 * **PEFT: Parameter-Efficient Fine-Tuning** [HuggingFace 🤗] [[Home Page](https://huggingface.co/docs/peft/index)] [[Github Repo](https://github.com/huggingface/peft)]<br>
 PEFT, or Parameter-Efficient Fine-Tuning (PEFT), is a library for efficiently adapting pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model’s parameters. <br>
 
