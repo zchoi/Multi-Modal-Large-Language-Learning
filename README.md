@@ -4,8 +4,6 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 ## 📒Table of Contents
 - [Multi-modal Large Language Models (MLLM)](#multimodal-large-language-models)
 - [Multimodal Benchmarks (MMB)](#multimodal-benchmarks)
-- [Multimodal Instruction Tuning (MMIT)](#multimodal-instruction-tuning)
-- [Multimodal In-context Learning (MMIL)](#multimodal-in-context-learning)
 - [Prompt Learning (PL)](#prompt-learning)
 - [Foundation Models (FM)](#foundation-models)
 - [Parameter-Efficient Tuning Repo (PETR)](#parameter-efficient-tuning-repo)
