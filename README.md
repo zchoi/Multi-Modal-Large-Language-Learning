@@ -9,14 +9,19 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 
 > ### Multi-modal Large Language Models (MLLM)
 
+
+* **Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models** [Arxiv 2024/01/15] [[Paper](https://arxiv.org/pdf/2403.18814.pdf)] [[Code](https://github.com/dvlab-research/MiniGemini)] [[Project Page](https://mini-gemini.github.io/)]<br>
+The Chinese University of Hong Kong, SmartMore
+
+
 * **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks** [Arxiv 2024/01/15] [[Paper](https://arxiv.org/abs/2312.14238)] [[Code](https://github.com/OpenGVLab/InternVL)]<br>
-<sup>1</sup>OpenGVLab, Shanghai AI Laboratory <sup>2</sup>Nanjing University <sup>3</sup>The University of Hong Kong <sup>4</sup>The Chinese University of Hong Kong <sup>5</sup>Tsinghua University <sup>6</sup>University of Science and Technology of China <sup>7</sup>SenseTime Research
+OpenGVLab, Shanghai AI Laboratory, Nanjing University, The University of Hong Kong, The Chinese University of Hong Kong, Tsinghua University, University of Science and Technology of China, SenseTime Research
 
 * **GiT: Towards Generalist Vision Transformer through Universal Language Interface** [Arxiv 2024/03/14] [[Paper](https://arxiv.org/abs/2403.09394)]<br>
-<sup>1</sup>Peking University <sup>2</sup>Max Planck Institute for Informatics <sup>3</sup>The Chinese University of Hong Kong Shenzhen <sup>4</sup>ETH Zurich <sup>5</sup>The Chinese University of Hong Kong<br>
+Peking University, Max Planck Institute for Informatics, The Chinese University of Hong Kong Shenzhen, ETH Zurich, The Chinese University of Hong Kong<br>
 
 * **LLaMA: Open and Efficient Foundation Language Models** [Arxiv 2023] [[Paper](https://arxiv.org/pdf/2302.13971v1.pdf)] [[Github Repo](https://github.com/CHENGY12/PLOT)]<br>
-<sup>1</sup>Meta AI
+Meta AI
 
 
 > ### Foundation Models (FM)
