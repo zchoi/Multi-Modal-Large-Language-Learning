@@ -9,8 +9,11 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 
 > ### Multi-modal Large Language Models (MLLM)
 
+* **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models** [Arxiv 2024/02/12] [[Paper](https://arxiv.org/abs/2402.07865)] [[Code](https://github.com/TRI-ML/prismatic-vlms)] [[Evaluation](https://github.com/TRI-ML/vlm-evaluation)]<br>
+Stanford, Toyota Research Institute
 
-* **Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models** [Arxiv 2024/01/15] [[Paper](https://arxiv.org/pdf/2403.18814.pdf)] [[Code](https://github.com/dvlab-research/MiniGemini)] [[Project Page](https://mini-gemini.github.io/)]<br>
+
+* **Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models** [Arxiv 2024/03/27] [[Paper](https://arxiv.org/pdf/2403.18814.pdf)] [[Code](https://github.com/dvlab-research/MiniGemini)] [[Project Page](https://mini-gemini.github.io/)]<br>
 The Chinese University of Hong Kong, SmartMore
 
 
