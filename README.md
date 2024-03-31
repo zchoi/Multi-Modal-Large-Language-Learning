@@ -9,6 +9,10 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 
 > ### Multi-modal Large Language Models (MLLM)
 
+
+* **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection** [Arxiv 2024/02/12] [[Paper](https://arxiv.org/pdf/2311.10122.pdf)] [[Code](https://github.com/PKU-YuanGroup/Video-LLaVA)] <br>
+Peking University, Peng Cheng Laboratory, Sun Yat-sen University, Guangzhou, Tencent Data Platform, AI for Science (AI4S)-Preferred Program, Peking University Shenzhen Graduate School, FarReel Ai Lab
+
 * **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models** [Arxiv 2024/02/12] [[Paper](https://arxiv.org/abs/2402.07865)] [[Code](https://github.com/TRI-ML/prismatic-vlms)] [[Evaluation](https://github.com/TRI-ML/vlm-evaluation)]<br>
 Stanford, Toyota Research Institute
 
