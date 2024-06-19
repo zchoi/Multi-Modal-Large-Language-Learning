@@ -32,7 +32,7 @@ Meta AI
 
 > ## Multimodal Benchmarks (MMB)
 
-* **MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs** [Arxiv 2024/06/17] [[Paper](https://arxiv.org/pdf/2406.11833)] [[Code](https://github.com/Liuziyu77/MMDU)] [[HomePage](https://liuziyu77.github.io/MMDU/)]<br>
+* **MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs** [Arxiv 2024/06/17] [[Paper](https://arxiv.org/pdf/2406.11833)] [[Code](https://github.com/Liuziyu77/MMDU)] [[HomePage](https://liuziyu77.github.io/MMDU/)] [[Space🤗](https://huggingface.co/datasets/laolao77/MMDU)]<br>
 Wuhan University, Shanghai AI Laboratory, The Chinese University of Hong Kong, MThreads, Inc.
 
 > ### Foundation Models (FM)
