@@ -30,6 +30,10 @@ Peking University, Max Planck Institute for Informatics, The Chinese University 
 * **LLaMA: Open and Efficient Foundation Language Models** [Arxiv 2023] [[Paper](https://arxiv.org/pdf/2302.13971v1.pdf)] [[Github Repo](https://github.com/CHENGY12/PLOT)]<br>
 Meta AI
 
+> ## Multimodal Benchmarks (MMB)
+
+* **MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs** [Arxiv 2024/06/17] [[Paper](https://arxiv.org/pdf/2406.11833)] [[Code](https://github.com/Liuziyu77/MMDU)] [[HomePage](https://liuziyu77.github.io/MMDU/)]<br>
+Wuhan University, Shanghai AI Laboratory, The Chinese University of Hong Kong, MThreads, Inc.
 
 > ### Foundation Models (FM)
 
