@@ -2,14 +2,20 @@
 This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal Benchmarks (MMB), Multimodal Instruction Tuning (MMIT), Multimodal In-context Learning (MMIL), Foundation Models (*e.g.*, CLIP families) (FM), and the most popular Parameter-Efficient Tuning methods.
 
 ## 📒Table of Contents
+- [Alignment](#alignment)
 - [Multi-modal Large Language Models (MLLM)](#multimodal-large-language-models)
-- [Multimodal Benchmarks (MMB)](#multimodal-benchmarks)
+- [Multi-modal Benchmarks (MMB)](#multimodal-benchmarks)
 - [Foundation Models (FM)](#foundation-models)
 - [Parameter-Efficient Tuning Repo (PETR)](#parameter-efficient-tuning-repo)
 
+> ### Alignment
+
+* MDPO: Conditional Preference Optimization for Multimodal Large Language Models [arXiv 2024/06/17] [[Paper](https://arxiv.org/pdf/2406.11839)] <br>
+University of Southern California, University of California, Davis, Microsoft Research
+
 > ### Multi-modal Large Language Models (MLLM)
 
-* **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions** [arXiv 2023/11/28] [[Paper](https://arXiv.org/abs/2311.12793)] [[Code](https://github.com/ShareGPT4Omni/ShareGPT4V)] [[Homepage](https://sharegpt4v.github.io/)]<br>
+* **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions** [ECCV2024] [[Paper](https://arXiv.org/abs/2311.12793)] [[Code](https://github.com/ShareGPT4Omni/ShareGPT4V)] [[Homepage](https://sharegpt4v.github.io/)]<br>
 University of Science and Technology of China, Shanghai AI Laboratory
 
 * **Video-LLaVA: Learning United Visual Representation by Alignment Before Projection** [arXiv 2024/02/12] [[Paper](https://arXiv.org/pdf/2311.10122.pdf)] [[Code](https://github.com/PKU-YuanGroup/Video-LLaVA)] <br>
