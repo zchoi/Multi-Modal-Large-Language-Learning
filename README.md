@@ -10,8 +10,12 @@ This is a curated list of Multi-modal Large Language Models (MLLM), Multimodal B
 
 > ### Alignment
 
-* MDPO: Conditional Preference Optimization for Multimodal Large Language Models [arXiv 2024/06/17] [[Paper](https://arxiv.org/pdf/2406.11839)] <br>
+* **MDPO: Conditional Preference Optimization for Multimodal Large Language Models** [arXiv 2024/06/17] [[Paper](https://arxiv.org/pdf/2406.11839)] <br>
 University of Southern California, University of California, Davis, Microsoft Research
+
+* **RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback** [CVPR 2024] [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-grained_Correctional_CVPR_2024_paper.pdf)] [[Code](https://github.com/RLHF-V/RLHF-V)] [[Homepage](https://rlhf-v.github.io/)]<br>
+Tsinghua University, National University of Singapore, Shenzhen International Graduate School, Tsinghua University, Pengcheng Laboratory, Shenzhen, China
+
 
 > ### Multi-modal Large Language Models (MLLM)
 
