@@ -21,6 +21,10 @@ Tsinghua University, National University of Singapore, Shenzhen International Gr
 
 > ### Multi-modal Large Language Models (MLLM)
 
+
+* **VILA<sup>2</sup>: VILA Augmented VILA** [arXiv 2025/0724] [[Paper](https://arxiv.org/pdf/2407.17453)] <br>
+NVIDIA, UT Austin, MIT
+
 * **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions** [ECCV2024] [[Paper](https://arXiv.org/abs/2311.12793)] [[Code](https://github.com/ShareGPT4Omni/ShareGPT4V)] [[Homepage](https://sharegpt4v.github.io/)]<br>
 University of Science and Technology of China, Shanghai AI Laboratory
 
